@@ -67,7 +67,7 @@ Text Summarizer AI project using LLaMA via Ollama. Integrated with FastAPI for t
 ## Project Structure
 
 ```
-text-summarizer-llama/
+textsummarizer/
 │
 ├── backend/
 │   └── main.py       # FastAPI application
